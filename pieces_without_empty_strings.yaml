@@ -2401,7 +2401,7 @@ paths:
         - Auth0
     parameters: []
   /backup:
-    post
+    post:
       operationId: backup
       requestBody:
         content:
