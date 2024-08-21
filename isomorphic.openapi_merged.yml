@@ -17561,7 +17561,7 @@ paths:
     parameters: []
   /.well-known/health:
     get:
-      description: Retrieves the health status of the server.
+      description: Retrieves the health status of the serversssss.
       operationId: get-well-known-health
       responses:
         "200":
